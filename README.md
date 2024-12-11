@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dehmani89
 - 👀 I’m interested in all things software
-- 🌱 I’m currently learning NodeJS, React, Secure Code Practices...
+- 🌱 I’m currently using Java, NodeJS, React, AWS Services, Docker Containerization, Secure Code Practices...
 - 💞️ I’m looking to collaborate on some fun projects
 - 📫 You can reach me via email @ amine.dehmani@gmail.com 
 
